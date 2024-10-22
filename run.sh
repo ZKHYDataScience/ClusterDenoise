@@ -1,0 +1,1 @@
+python run.py --input_dir data/raw --output_deduplication data/Deduplication1 --output_cluster data/cluster2 --output_filtered data/1/deletedata4 --check_clusters True --generate_stats True --eps 2500 --min_samples 5
